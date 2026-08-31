@@ -1,0 +1,27 @@
+{
+  "name": "gov-doc-explainer",
+  "version": "1.0.0",
+  "description": "Free AI-powered real-time government document explainer using screen capture and OCR",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "government",
+    "documents",
+    "legal",
+    "AI",
+    "OCR",
+    "open-source",
+    "free"
+  ],
+  "author": "Sxn5620",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sxn5620/gov-doc-explainer.git"
+  },
+  "devDependencies": {}
+}
